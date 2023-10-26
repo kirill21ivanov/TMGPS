@@ -1,0 +1,10 @@
+name: TMGPS
+main: TMGPS\TMGPS
+version: 1.0
+api: 3.6.4
+load: POSTWORLD
+author: TheMuh229
+website: https://vk.com/kivanov20040
+commands:
+ gps:
+  default: true
